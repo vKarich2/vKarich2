@@ -4,7 +4,7 @@
 - 🚀 Webentwicklungsanfänger aus der Ukraine
 - 🏙️ Seit 2 Jahren in Deutschland
 - 🎓 Informatikstudium mit dem Schwerpunkt **Cybersicherheit** 
-- 💻 Zurzeit lerne ich **React.js**, **Next.js** und andere moderne Web-Technologien  
+- 💻 Derzeit lerne ich **React.js**, **Next.js** und andere moderne Web-Technologien  
 - 🔍 Auf der Suche nach einer **Ausbildung zum Fachinformatiker für Anwendungsentwicklung** oder **Systemintegration**
 - ⚡ Leidenschaft für **Programmierung, Design, Computerhardware, Videospiele und Reisen** 
 
