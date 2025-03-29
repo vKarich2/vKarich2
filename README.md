@@ -53,10 +53,10 @@
 ### **Miro users support**
 <a src="https://www.credly.com/earner/earned/badge/d4440c9e-6306-4d54-980c-b82a87a7f27f"><img src="https://images.credly.com/size/680x680/images/6a7b95ec-30d3-41f9-9503-16e64ff5fbfe/image.png" width="270" height="auto" alt="Miro: Users Support"></a>
 
-### **Udemy** [![Udemy](https://img.shields.io/badge/Udemy-%23A435F0.svg?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/)
+### [![Udemy](https://img.shields.io/badge/Udemy-%23A435F0.svg?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/) **Udemy** 
 
-
-
+<a src="./certificates/cert_1.pdf">MERN Stack E-Commerce Project: Part 1: Backend Only</a>
+<a src="./certificates/cert_2.pdf">The Complete 2024 Web Development Bootcamp</a>
 ---
 
 ## 🚀 Technologien & Tools  
