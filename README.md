@@ -53,10 +53,17 @@
 ### **Miro users support**
 <a href="https://www.credly.com/earner/earned/badge/d4440c9e-6306-4d54-980c-b82a87a7f27f"><img src="https://images.credly.com/size/680x680/images/6a7b95ec-30d3-41f9-9503-16e64ff5fbfe/image.png" width="270" height="auto" alt="Miro: Users Support"></a>
 
-### [![Udemy](https://img.shields.io/badge/Udemy-%23A435F0.svg?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/) **Udemy** 
+### **Andere Zertifikate** 
 
 - <a href="./certificates/cert_1.pdf">MERN Stack E-Commerce Project: Part 1: Backend Only</a>
 - <a href="./certificates/cert_2.pdf">The Complete 2024 Web Development Bootcamp</a>
+- <a href="./certificates/cert_3.pdf">HackerRank - CSS</a>
+- <a href="./certificates/cert_4.pdf">HackerRank - JavaScript (Basic)</a>
+- <a href="./certificates/cert_5.pdf">HackerRank - JavaScript (Intermediate)</a>
+- <a href="./certificates/cert_6.pdf">EF SET - English B1 Intermediate</a>
+- <a href="./certificates/cert_7.pdf">g.a.s.t. - Deutsch-Test für Zuwanderer B1</a>
+- <a href="./certificates/cert_8.pdf">telc - Deutsch-Test für den Beruf B2</a>
+
 ---
 
 ## 🚀 Technologien & Tools  
