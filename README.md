@@ -21,42 +21,42 @@
 ## 🎖️ Zertifikate und digitale Badges
 
 ### **CCNA: Introduction to Networks**
-<a src="https://www.credly.com/earner/earned/badge/828c3c65-9cb6-418f-88de-a76a32c44950"><img src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="270" height="auto" alt="CCNA: Introduction to Networks"></a>
+<a href="https://www.credly.com/earner/earned/badge/828c3c65-9cb6-418f-88de-a76a32c44950"><img src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="270" height="auto" alt="CCNA: Introduction to Networks"></a>
 
 ### **Cybersecurity Essentials**
-<a src="https://www.credly.com/earner/earned/badge/8fea8bf6-e184-453b-bbfd-8f17c3c0caaf"><img src="https://images.credly.com/size/680x680/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" width="270" height="auto" alt="Cybersecurity Essentials"></a>
+<a href="https://www.credly.com/earner/earned/badge/8fea8bf6-e184-453b-bbfd-8f17c3c0caaf"><img src="https://images.credly.com/size/680x680/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" width="270" height="auto" alt="Cybersecurity Essentials"></a>
 
 ### **CyberOps Associate**
-<a src="https://www.credly.com/earner/earned/badge/8a500fe8-7a7a-4f0e-a055-756afaa44f47"><img src="https://images.credly.com/size/680x680/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png" width="270" height="auto" alt="CyberOps Associate"></a>
+<a href="https://www.credly.com/earner/earned/badge/8a500fe8-7a7a-4f0e-a055-756afaa44f47"><img src="https://images.credly.com/size/680x680/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png" width="270" height="auto" alt="CyberOps Associate"></a>
 
 ### **Introduction to IoT**
-<a src="https://www.credly.com/earner/earned/badge/f23e9cda-5d99-4b43-8f8d-bb2b07c16ae5"><img src="https://images.credly.com/size/680x680/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png" width="270" height="auto" alt="Introduction to IoT"></a>
+<a href="https://www.credly.com/earner/earned/badge/f23e9cda-5d99-4b43-8f8d-bb2b07c16ae5"><img src="https://images.credly.com/size/680x680/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png" width="270" height="auto" alt="Introduction to IoT"></a>
 
 ### **Python Essentials 1**
-<a src="https://www.credly.com/earner/earned/badge/6d9fa1cf-49b7-4877-a2e4-8dc4844a034d"><img src="https://images.credly.com/size/680x680/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width="270" height="auto" alt="Python Essentials 1"></a>
+<a href="https://www.credly.com/earner/earned/badge/6d9fa1cf-49b7-4877-a2e4-8dc4844a034d"><img src="https://images.credly.com/size/680x680/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width="270" height="auto" alt="Python Essentials 1"></a>
 
 ### **JavaScript Essentials 1**
-<a src="https://www.credly.com/earner/earned/badge/831bd7a2-ae15-41c1-abdf-61adf97cfbb3"><img src="https://images.credly.com/size/680x680/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png" width="270" height="auto" alt="JavaScript Essentials 1"></a>
+<a href="https://www.credly.com/earner/earned/badge/831bd7a2-ae15-41c1-abdf-61adf97cfbb3"><img src="https://images.credly.com/size/680x680/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png" width="270" height="auto" alt="JavaScript Essentials 1"></a>
 
 ### **Miro essentials**
-<a src="https://www.credly.com/earner/earned/badge/7e74a0bd-5bab-46f4-8c80-4a6d1964a8fd"><img src="https://images.credly.com/size/680x680/images/1245c82c-67ca-4365-9515-74c289d5fd6d/image.png" width="270" height="auto" alt="Miro Essentials"></a>
+<a href="https://www.credly.com/earner/earned/badge/7e74a0bd-5bab-46f4-8c80-4a6d1964a8fd"><img src="https://images.credly.com/size/680x680/images/1245c82c-67ca-4365-9515-74c289d5fd6d/image.png" width="270" height="auto" alt="Miro Essentials"></a>
 
 ### **Mapping & diagramming**
-<a src="https://www.credly.com/earner/earned/badge/523a7b77-4062-4151-8e83-fb06bed1d005"><img src="https://images.credly.com/size/680x680/images/b356065f-1746-4810-bbb5-c0578df9fbcb/image.png" width="270" height="auto" alt="Miro: Mapping & Diagramming"></a>
+<a href="https://www.credly.com/earner/earned/badge/523a7b77-4062-4151-8e83-fb06bed1d005"><img src="https://images.credly.com/size/680x680/images/b356065f-1746-4810-bbb5-c0578df9fbcb/image.png" width="270" height="auto" alt="Miro: Mapping & Diagramming"></a>
 
 ### **Collaborative meetings**
-<a src="https://www.credly.com/earner/earned/badge/aa5f3d2b-1e7e-4d23-b713-2f6f87a674d5"><img src="https://images.credly.com/size/680x680/images/5d1f5c31-b66b-4dff-ba0f-a5c08a801480/image.png" width="270" height="auto" alt="Miro: Collaborative Meetings"></a>
+<a href="https://www.credly.com/earner/earned/badge/aa5f3d2b-1e7e-4d23-b713-2f6f87a674d5"><img src="https://images.credly.com/size/680x680/images/5d1f5c31-b66b-4dff-ba0f-a5c08a801480/image.png" width="270" height="auto" alt="Miro: Collaborative Meetings"></a>
 
 ### **Client Collaboration**
-<a src="https://www.credly.com/earner/earned/badge/e02a0be1-684c-48fd-a321-5940cd4b05ae"><img src="https://images.credly.com/size/680x680/images/0dec46c3-9917-4906-a409-f79473ce5829/image.png" width="270" height="auto" alt="Miro: Client Collaboration"></a>
+<a href="https://www.credly.com/earner/earned/badge/e02a0be1-684c-48fd-a321-5940cd4b05ae"><img src="https://images.credly.com/size/680x680/images/0dec46c3-9917-4906-a409-f79473ce5829/image.png" width="270" height="auto" alt="Miro: Client Collaboration"></a>
 
 ### **Miro users support**
-<a src="https://www.credly.com/earner/earned/badge/d4440c9e-6306-4d54-980c-b82a87a7f27f"><img src="https://images.credly.com/size/680x680/images/6a7b95ec-30d3-41f9-9503-16e64ff5fbfe/image.png" width="270" height="auto" alt="Miro: Users Support"></a>
+<a href="https://www.credly.com/earner/earned/badge/d4440c9e-6306-4d54-980c-b82a87a7f27f"><img src="https://images.credly.com/size/680x680/images/6a7b95ec-30d3-41f9-9503-16e64ff5fbfe/image.png" width="270" height="auto" alt="Miro: Users Support"></a>
 
 ### [![Udemy](https://img.shields.io/badge/Udemy-%23A435F0.svg?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/) **Udemy** 
 
-- <a src="./certificates/cert_1.pdf">MERN Stack E-Commerce Project: Part 1: Backend Only</a>
-- <a src="./certificates/cert_2.pdf">The Complete 2024 Web Development Bootcamp</a>
+- <a href="./certificates/cert_1.pdf">MERN Stack E-Commerce Project: Part 1: Backend Only</a>
+- <a href="./certificates/cert_2.pdf">The Complete 2024 Web Development Bootcamp</a>
 ---
 
 ## 🚀 Technologien & Tools  
