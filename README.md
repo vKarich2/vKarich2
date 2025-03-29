@@ -55,8 +55,8 @@
 
 ### [![Udemy](https://img.shields.io/badge/Udemy-%23A435F0.svg?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/) **Udemy** 
 
-<a src="./certificates/cert_1.pdf">MERN Stack E-Commerce Project: Part 1: Backend Only</a>
-<a src="./certificates/cert_2.pdf">The Complete 2024 Web Development Bootcamp</a>
+- <a src="./certificates/cert_1.pdf">MERN Stack E-Commerce Project: Part 1: Backend Only</a>
+- <a src="./certificates/cert_2.pdf">The Complete 2024 Web Development Bootcamp</a>
 ---
 
 ## 🚀 Technologien & Tools  
