@@ -1,11 +1,11 @@
 # 👋🏻 Hallo, mein Name ist Vladyslav Karapetov!
 
 ## 👨🏻‍💻 Über mich
-- 🚀 Webentwicklungsanfänger aus der Ukraine
-- 🏙️ Seit 2 Jahren in Deutschland
+- 🚀 Einsteiger im Bereich **Systemintegration und IT-Sicherheit** aus der Ukraine
+- 🏙️ Seit 3 Jahren in Deutschland
 - 🎓 Informatikstudium mit dem Schwerpunkt **Cybersicherheit** 
 - 💻 Derzeit lerne ich **React.js**, **Next.js** und andere moderne Web-Technologien  
-- 🔍 Auf der Suche nach einer **Ausbildung zum Fachinformatiker für Anwendungsentwicklung** oder **Systemintegration**
+- 🔍 Auszubildender zum **Fachinformatiker für Systemintegration** bei der **Klinikum Leverkusen Service GmbH**
 - ⚡ Leidenschaft für **Programmierung, Design, Computerhardware, Videospiele und Reisen** 
 
 ---
