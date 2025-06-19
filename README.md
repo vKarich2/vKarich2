@@ -2,11 +2,11 @@
 
 ## 👨🏻‍💻 Über mich
 - 🚀 Einsteiger im Bereich **Systemintegration und IT-Sicherheit** aus der Ukraine
-- 🏙️ Seit 3 Jahren in Deutschland
+- 🏙️ Seit **3 Jahren** in Deutschland
 - 🎓 Informatikstudium mit dem Schwerpunkt **Cybersicherheit** 
-- 💻 Derzeit lerne ich **React.js**, **Next.js** und andere moderne Web-Technologien  
+- 💻 Derzeit lerne ich Netzwerktechnik, IT-Sicherheit, Systemadministration und Konfiguration von IT-Infrastrukturen 
 - 🔍 Auszubildender zum **Fachinformatiker für Systemintegration** bei der **Klinikum Leverkusen Service GmbH**
-- ⚡ Leidenschaft für **Programmierung, Design, Computerhardware, Videospiele und Reisen** 
+- ⚡ Leidenschaft für **Programmierung, Webdesign, Computerhardware, Videospiele und Reisen** 
 
 ---
 
